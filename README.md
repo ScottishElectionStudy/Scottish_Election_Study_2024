@@ -5,4 +5,4 @@ The wider 2021-2025 Scottish Election Study (SES) project was carried out as a c
 
 The 2024 data were collected as a two-wave panel in collaboration with YouGov. The surveys were fielded as online self-completion questionnaires via quota sampling. Wave 1 was carried out as a two-week rolling sample between the 19th of June and 2nd of July 2024. Wave 2 was carried out between the 8th and 22nd of July. A total of 2,472 respondents completed Wave 1, with 2,027 of these individuals completing the follow-up, giving a retention rate of 82%. Among Wave 2 respondents, more than 75% completed the survey by the 12th of July, one week after the results were announced.
 
-Data citation: Henderson A., McMillan F., Larner J., Johns R. and Carman C. (2025) "Scottish Election Study 2024 General Election panel survey". 
+Data citation: Henderson A., McMillan F., Larner J., Johns R., Carman C. and Miori M., (2025) "Scottish Election Study 2024 General Election panel survey". 
